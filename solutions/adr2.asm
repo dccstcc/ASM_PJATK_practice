@@ -1,0 +1,1 @@
+Blad pobierania pliku: /home/PJWSTK/pantadeusz/.config/app-stud-v/data/lessons/wia2017ll/files/adr2.asm (No such file or directory)
